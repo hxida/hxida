@@ -6,7 +6,7 @@ That's it, for now. 'Hope you're havin a great day!
 
 ## Active Projects
 - Custom HaxeFlixel Build.
-- Some FNF' Engines (such as "ReimaginedEngine, HellEngine and etc.)
+- Some FNF' Engines (such as "ReimaginedEngine", "HellEngine" and etc.)
 <!--
 **hxida/hxida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
