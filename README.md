@@ -1,7 +1,7 @@
 ## Greetings 👋
 
 Name's Heinrich, but people call me Doe or Husk.
-I do [HaxeFlixel](https://github.com/HaxeFlixel "HaxeFlixel") & **Haxe** for about a year now and some other programming languages for quite long time.
+I do [HaxeFlixel](https://github.com/HaxeFlixel "HaxeFlixel") & [Haxe](https://github.com/HaxeFoundation) for about a year now and some other programming languages for quite long time.
 
 ## Active Projects 🖥️
 - Custom HaxeFlixel Build.
