@@ -3,11 +3,11 @@
 Name's Heinrich, but people call me Doe or Husk.
 I do **HaxeFlixel** & **Haxe** for about a year now and some other programming languages for quite long time.
 
-## Active Projects
+## Active Projects 🖥️
 - Custom HaxeFlixel Build.
 - Some FNF' Engines (such as "ReimaginedEngine", "HellEngine" and etc.)
 
-## Social Media
+## Social Media 🔎
 Naw, not today.
 <!--
 **hxida/hxida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
