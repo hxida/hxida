@@ -5,7 +5,9 @@ I do **HaxeFlixel** & **Haxe** for about a year now and some other programming l
 
 ## Active Projects 🖥️
 - Custom HaxeFlixel Build.
-- Some FNF' Engines (such as "ReimaginedEngine", "HellEngine" and etc.)
+- Some FNF' Engines. (such as "ReimaginedEngine", "HellEngine" and etc.)
+- Song composing. ("Celestial Orders" & "HazbinMod")
+- Some other works.
 
 ## Social Media 🔎
 Naw, not today.
