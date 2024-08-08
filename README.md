@@ -11,9 +11,9 @@ I do [HaxeFlixel](https://github.com/HaxeFlixel) & [Haxe](https://github.com/Hax
 
 ## Social Media 🔎
 ### Music n stuff
-- [Soundcloud](https://soundcloud.com/hxida)
+- [Soundcloud Artist Page](https://soundcloud.com/hxida)
 - [Spotify Artist Page](https://open.spotify.com/artist/2TxL8fyfPCgOJYQFWtKhVR)
-- [Youtube](https://www.youtube.com/@DoeJohnetlee)
+- [Youtube Channel](https://www.youtube.com/@DoeJohnetlee)
 <!--
 **hxida/hxida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
