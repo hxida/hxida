@@ -10,7 +10,10 @@ I do [HaxeFlixel](https://github.com/HaxeFlixel) & [Haxe](https://github.com/Hax
 - Some other works.
 
 ## Social Media 🔎
-Naw, not today.
+### Music n stuff
+- [Soundcloud](https://soundcloud.com/hxida)
+- [Spotify Artist Page](https://open.spotify.com/artist/2TxL8fyfPCgOJYQFWtKhVR)
+- [Youtube](https://www.youtube.com/@DoeJohnetlee)
 <!--
 **hxida/hxida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
