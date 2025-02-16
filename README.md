@@ -1,13 +1,13 @@
 ## Greetings 👋
 
-Name's Doe, I'm an Aviation enthusiast while Studying to become an Airline Pilot, A programmer as a hobby and a Musician.
-I also sometimes sing for the local bands so, my singing might be layin somewhere around the internet.
+Name's Doe, I'm an aviation enthusiast currently studying to become an airline pilot. In addition, I pursue programming as a hobby and have a passion for music. 
+I occasionally perform as a vocalist for local bands, so some of my recordings may be available somewhere on the internet.
 
 ## Active Stuff 🖥️
-- Custom HaxeFlixel Build. (Heavily paused on this)
-- Music Producing for singles n albums.
-- Interestingly working on building a couple of Linux Distro's. (Personal one's are not included)
-- Learning Cybersecurity.
+- Developing a custom HaxeFlixel build (currently on hold).
+- Producing music for singles and albums.
+- Working on the development of several Linux distributions (excluding personal projects).
+- Studying cybersecurity.
 
 ## Social Media 🔎
 ### Music n stuff
@@ -28,3 +28,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an aviation enthusiast currently studying to become an airline pilot. In addition, I pursue programming as a hobby and have a passion for music. I occasionally perform as a vocalist for local bands, so some of my recordings may be available online.
+Current Projects 🖥️
+
+    Developing a custom HaxeFlixel build (currently on hold).
+    Producing music for singles and albums.
+    Working on the development of several Linux distributions (excluding personal projects).
+    Studying cybersecurity.
