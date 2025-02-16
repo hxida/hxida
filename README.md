@@ -1,13 +1,13 @@
 ## Greetings 👋
 
-Name's Heinrich, but people call me Doe or Husk.
-I do [HaxeFlixel](https://github.com/HaxeFlixel) & [Haxe](https://github.com/HaxeFoundation) for about a year now and some other programming languages for quite long time.
+Name's Doe, I'm an Aviation enthusiast while Studying to become an Airline Pilot, A programmer as a hobby and a Musician.
+I also sometimes sing for the local bands so, my singing might be layin somewhere around the internet.
 
-## Active Projects 🖥️
-- Custom HaxeFlixel Build.
-- Some FNF' Engines. (such as "[ReimaginedEngine](https://github.com/hxida/ReimaginedEngine)", "HellEngine" and etc.)
-- Song composing. ("Celestial Orders" & "HazbinMod")
-- Some other works.
+## Active Stuff 🖥️
+- Custom HaxeFlixel Build. (Heavily paused on this)
+- Music Producing for singles n albums.
+- Interestingly working on building a couple of Linux Distro's. (Personal one's are not included)
+- Learning Cybersecurity.
 
 ## Social Media 🔎
 ### Music n stuff
