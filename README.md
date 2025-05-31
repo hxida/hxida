@@ -16,6 +16,8 @@
 
 <h2 align="center">languages that I'm currently active in:</h2>
 
+![](https://media.discordapp.net/attachments/1378367187869503559/1378367229619339334/LANGUAGES.png?ex=683c5804&is=683b0684&hm=78740d165cb2dbf2b21cf1b02b6f41f02b58bad0b67e61df5a95877993fb9527&=&format=webp&quality=lossless&width=1500&height=375)
+
 ###
 
 <div align="center">
