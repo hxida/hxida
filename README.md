@@ -18,10 +18,6 @@
 
 ###
 
-<p align="center">OS!!!!</p>
-
-###
-
 ![](https://media.discordapp.net/attachments/1378367187869503559/1378376787691569202/LANGUAGES_1_-_Copy.png?ex=683c60eb&is=683b0f6b&hm=c8e8f11abc816f8b416d11fe729e868c10de7b67d6ce66c06045f01e6742db30&=&format=webp&quality=lossless&width=1500&height=375)
 
 ###
