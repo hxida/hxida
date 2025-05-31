@@ -22,15 +22,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-</div>
+![](https://media.discordapp.net/attachments/1378367187869503559/1378376787691569202/LANGUAGES_1_-_Copy.png?ex=683c60eb&is=683b0f6b&hm=c8e8f11abc816f8b416d11fe729e868c10de7b67d6ce66c06045f01e6742db30&=&format=webp&quality=lossless&width=1500&height=375)
 
 ###
 
@@ -69,6 +61,16 @@
 
 
 <!--## Greetings 👋
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+</div>
 
 Name's Doe, I'm an aviation enthusiast currently studying to become an airline pilot. In addition, I pursue programming as a hobby and have a passion for music. 
 I occasionally perform as a vocalist for local bands, so some of my recordings may be available somewhere on the internet.
