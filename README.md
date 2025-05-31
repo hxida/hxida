@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">MY LATEST ACTIVITIES</h2>
+<h2 align="left">LATEST ACTIVITIES</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">some turkmenistan airlines b737-700 landing in IST =</p>
+<p align="center">some turkmenistan airlines b737-700 landing in IST</p>
 
 ###
 
