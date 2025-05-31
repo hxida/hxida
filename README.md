@@ -22,9 +22,11 @@
 
 ###
 
-<p align="right">some [Turkmenistan Airlines (Boeing 737-700)](https://en.wikipedia.org/wiki/Turkmenistan_Airlines#:~:text=Total-,Boeing%20737%2D700,-4)
- landing in [IST](https://en.wikipedia.org/wiki/Istanbul_Airport#:~:text=(IATA%3A-,IST,-%2C%20ICAO%3A)
+<p align="right">
+  some <a href="https://en.wikipedia.org/wiki/Turkmenistan_Airlines#:~:text=Total-,Boeing%20737%2D700,-4">Turkmenistan Airlines (Boeing 737-700)</a>
+  landing in <a href="https://en.wikipedia.org/wiki/Istanbul_Airport#:~:text=(IATA%3A-,IST,-%2C%20ICAO%3A)">IST</a>
 </p>
+
 
 ###
 
