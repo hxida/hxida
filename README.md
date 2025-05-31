@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">some turkmenistan airlines b737-700 landing in IST</p>
+<p align="right">some turkmenistan airlines b737-700 landing in IST</p>
 
 ###
 
