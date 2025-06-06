@@ -14,11 +14,15 @@
 
 ###
 
-![](https://media.discordapp.net/attachments/1378367187869503559/1378367229619339334/LANGUAGES.png?ex=683c5804&is=683b0684&hm=78740d165cb2dbf2b21cf1b02b6f41f02b58bad0b67e61df5a95877993fb9527&=&format=webp&quality=lossless&width=1500&height=375)
+<!--![](https://media.discordapp.net/attachments/1378367187869503559/1378367229619339334/LANGUAGES.png?ex=683c5804&is=683b0684&hm=78740d165cb2dbf2b21cf1b02b6f41f02b58bad0b67e61df5a95877993fb9527&=&format=webp&quality=lossless&width=1500&height=375)-->
+![LANGUAGES](https://github.com/user-attachments/assets/f50becd3-23d4-45f4-b22b-365f8f041ddd)
+
 
 ###
 
-![](https://media.discordapp.net/attachments/1378367187869503559/1378376787691569202/LANGUAGES_1_-_Copy.png?ex=683c60eb&is=683b0f6b&hm=c8e8f11abc816f8b416d11fe729e868c10de7b67d6ce66c06045f01e6742db30&=&format=webp&quality=lossless&width=1500&height=375)
+<!--![](https://media.discordapp.net/attachments/1378367187869503559/1378376787691569202/LANGUAGES_1_-_Copy.png?ex=683c60eb&is=683b0f6b&hm=c8e8f11abc816f8b416d11fe729e868c10de7b67d6ce66c06045f01e6742db30&=&format=webp&quality=lossless&width=1500&height=375)-->
+![LANGUAGES (1) - Copy](https://github.com/user-attachments/assets/a0647850-7bdf-4180-b632-6fdd8540fbbf)
+
 
 ###
 
