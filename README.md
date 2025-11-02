@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Developing a custom HaxeFlixel build - ON HOLD.<br>- Producing music for singles and albums.<br>- Working on the development of several Linux distributions (excluding personal projects).<br>- Studying cybersecurity.</p>
+<p align="left">- Developing a custom HaxeFlixel build - ON HOLD.<br>- Producing music for singles and albums.<br>- Working on the development of several Linux distributions (excluding personal projects).<br>- Som35im3w cybersecurity stuff.</p>
 
 ###
 
